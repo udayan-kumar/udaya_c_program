@@ -15,5 +15,7 @@ int main(){
     scanf(" %c" , &ch);
    
    printf("integer = %d, character = %c\n" , num , ch);
+
+    // printf("size of int %d\n" , sizeof(num));  // for checking size
     return 0;
 }
