@@ -9,5 +9,5 @@ int main(){
     else {
             printf("mannu");
         }
-        return 0;
+        return 0;  
 }
