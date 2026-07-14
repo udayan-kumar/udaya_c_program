@@ -3,7 +3,7 @@
 int main(){
     // FILE *fptr = fopen("temp.text" , "w");
     FILE *fptr = fopen("temp.text" , "r");
-    FILE *fptr = fopen("temp.text" , "r");
+   
     // FILE *fptr = fopen("temp.text" , "a");
 
     char name[30];
